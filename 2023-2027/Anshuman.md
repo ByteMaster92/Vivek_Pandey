@@ -1,13 +1,13 @@
 # Club Contributions
 
 - Led general club meetings to assign tasks, track progress, and ensure the execution of events and activities.
-- Coordinated C++ CodeCamp in both 2nd and 3rd year, including logistics such as daily transport of students from hostels.
+- Coordinated C++ CodeCamp in both 2nd and 3rd year, including logistics such as cheques, certificates, banners and daily transport of students from hostels.
 - Conducted junior induction processes, including screening rounds (2nd year) and personal interviews (3rd year).
 - Represented the club in outreach programs, briefings, and sponsor visits for Hackatron, both offline and via email follow‑ups.
 - Led the Blockchain session during club Orientation.
 
 - Served as CodeCamp Mentor, guiding juniors in technical skills and building foundational coding abilities.
-- Prepared slides and notes for CodeCamp and other technical sessions in 2nd year.
+- Prepared slides and notes for CodeCamp in 2nd year.
 - Assisted in organizing the SIH internal hackathon in both 2nd and 3rd year.
 - Helped manage the hoodie campaign, convincing juniors to participate and overseeing distribution.
 - Helped organize Saraswati Puja for the first time in the club.
